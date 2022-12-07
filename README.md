@@ -14,6 +14,12 @@ This is a Repository to have the Files of The Pratices in Tableau.
    
                      DATA SET:  SAMPLE SUPER STORE    
      
+     CASE STUDIES:
+      💨 Analyze the Factors that affect/Influence the sales of an Ecommerce company.
+      
+     
+     
+     
      Analyze the Factors that affect/influence the sales of an ecommerce company.
      
      SCENARIO 1:   States having the Most Probability/Revenue and Loss Generation.
